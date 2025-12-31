@@ -58,7 +58,7 @@ Hello, World
 ---
 
 ## 🖼 Application Screenshot
-![Application Screenshot](Python-3d-video-matplotlib/screenshot.png)
+![Application Screenshot](telegram-bot-with-python/screenshot.png)
 
 ---
 
